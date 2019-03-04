@@ -1,0 +1,6 @@
+.page-nav ul {display: block}
+.page-nav ul li {display: inline-block}
+.page-nav ul li+li {margin-left: 15px}
+
+.employees-table table {border-collapse: collapse}
+.employees-table table td {background-color: rgb(238, 236, 236);border: 5px solid white;padding: 10px 15px}
